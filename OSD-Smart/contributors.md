@@ -73,6 +73,7 @@
 - Sarah Williamson
 - Sayali Naval (https://github.com/sayalinaval)
 - Shahana
+- Shalaka Deshpande ( https://github.com/Shalaka003/Shalaka003.git)
 - Shannon Lu
 - Sharmy-r
 - Sheila Pinto
